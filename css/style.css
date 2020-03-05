@@ -1560,9 +1560,20 @@ h6 {
     margin-left: 0;
   }
 }
-
+.contactNumber p { 
+  color: #68b7bd; font-weight: 600; font-size: 4em; margin-bottom: 0px; padding-bottom: 10px;
+}
+.contactEmail a {
+  color: #68b7bd; font-weight: 600; font-size: 4em; margin-bottom: 0px; padding-bottom: 10px;
+}
 @media (max-width: 574px) {
   #footer .footer-top .social-links a {
     margin-bottom: 25px;
+  }
+  .contactNumber p { 
+    color: #68b7bd; font-weight: 600; font-size: 2em; display: inline-block; margin-bottom: 0px; padding-bottom: 10px;
+  }
+  .contactEmail a {
+    color: #68b7bd; font-weight: 600; font-size: 2em; margin-bottom: 0px; padding-bottom: 10px;
   }
 }
