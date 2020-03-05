@@ -1560,7 +1560,7 @@ h6 {
     margin-left: 0;
   }
 }
-.contactNumber p { 
+.contactNumber  { 
   color: #68b7bd; font-weight: 600; font-size: 4em; margin-bottom: 0px; padding-bottom: 10px;
 }
 .contactEmail a {
@@ -1570,7 +1570,7 @@ h6 {
   #footer .footer-top .social-links a {
     margin-bottom: 25px;
   }
-  .contactNumber p { 
+  .contactNumber  { 
     color: #68b7bd; font-weight: 600; font-size: 2em; display: inline-block; margin-bottom: 0px; padding-bottom: 10px;
   }
   .contactEmail a {
